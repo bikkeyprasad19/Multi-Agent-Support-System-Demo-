@@ -17,9 +17,6 @@ Human-in-the-Loop escalation.
 - Python 3.10 or higher installed.
 - A free Google Gemini API Key (obtain from: https://aistudio.google.com/).
 - Git (for cloning the repository).
-
-API key: AQ.Ab8RN6JueFu5xAVyLIrDsETiRL2B7aYwC1tOhaLqSQgbWXPKTg
-(if it doesn't work try using api key from google genai by yourself)
 --------------------------------------------------------------------------------
 2. INSTALLATION & ENVIRONMENT SETUP
 --------------------------------------------------------------------------------
